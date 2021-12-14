@@ -5,6 +5,7 @@ const App = () => {
   return (
     <>
       <h1>Aplicativo React</h1>
+      <p>Teste Push</p>
     </>
   );
 };
